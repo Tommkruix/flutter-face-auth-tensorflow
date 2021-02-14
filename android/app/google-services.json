@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39065931272",
+    "project_id": "face-auth-tensorflow",
+    "storage_bucket": "face-auth-tensorflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39065931272:android:079e37bcf3ca214a364bbd",
+        "android_client_info": {
+          "package_name": "io.flutter.app.FlutterApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39065931272-kdpe9qdhhq7nvt2hlu2kl4pb4bl0t7ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9vtPJM6IrDPXk9Dn1wtrpQDK6gtggpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39065931272-kdpe9qdhhq7nvt2hlu2kl4pb4bl0t7ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
